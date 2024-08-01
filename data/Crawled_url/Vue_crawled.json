@@ -1,0 +1,602 @@
+[
+  {
+    "url": "https://vuejs.org/error-reference/"
+  },
+  {
+    "url": "https://vuejs.org/examples/"
+  },
+  {
+    "url": "https://vuejs.org/glossary/"
+  },
+  {
+    "url": "https://vuejs.org/tutorial/"
+  },
+  {
+    "url": "https://vuejs.org/api/"
+  },
+  {
+    "url": "https://vuejs.org/api/utility-types"
+  },
+  {
+    "url": "https://vuejs.org/api/sfc-spec"
+  },
+  {
+    "url": "https://vuejs.org/api/composition-api-setup"
+  },
+  {
+    "url": "https://vuejs.org/api/options-state"
+  },
+  {
+    "url": "https://vuejs.org/api/options-composition"
+  },
+  {
+    "url": "https://vuejs.org/api/sfc-css-features"
+  },
+  {
+    "url": "https://vuejs.org/api/general"
+  },
+  {
+    "url": "https://vuejs.org/api/compile-time-flags"
+  },
+  {
+    "url": "https://vuejs.org/api/reactivity-utilities"
+  },
+  {
+    "url": "https://vuejs.org/api/custom-renderer"
+  },
+  {
+    "url": "https://vuejs.org/api/composition-api-lifecycle"
+  },
+  {
+    "url": "https://vuejs.org/api/component-instance"
+  },
+  {
+    "url": "https://vuejs.org/api/application"
+  },
+  {
+    "url": "https://vuejs.org/api/built-in-special-attributes"
+  },
+  {
+    "url": "https://vuejs.org/api/reactivity-core"
+  },
+  {
+    "url": "https://vuejs.org/api/render-function"
+  },
+  {
+    "url": "https://vuejs.org/api/built-in-directives"
+  },
+  {
+    "url": "https://vuejs.org/api/sfc-script-setup"
+  },
+  {
+    "url": "https://vuejs.org/api/options-lifecycle"
+  },
+  {
+    "url": "https://vuejs.org/api/built-in-components"
+  },
+  {
+    "url": "https://vuejs.org/api/options-misc"
+  },
+  {
+    "url": "https://vuejs.org/api/composition-api-dependency-injection"
+  },
+  {
+    "url": "https://vuejs.org/api/reactivity-advanced"
+  },
+  {
+    "url": "https://vuejs.org/api/built-in-special-elements"
+  },
+  {
+    "url": "https://vuejs.org/api/options-rendering"
+  },
+  {
+    "url": "https://vuejs.org/api/ssr"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/essentials/named-routes"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/advanced/navigation-failures"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/essentials/redirect-and-alias"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/advanced/typed-routes"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/migration/"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/essentials/passing-props"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/advanced/transitions"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/essentials/active-links"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/advanced/meta"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/advanced/scroll-behavior"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/advanced/navigation-guards"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/advanced/lazy-loading"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/essentials/navigation"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/advanced/router-view-slot"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/advanced/dynamic-routing"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/advanced/extending-router-link"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/essentials/dynamic-matching"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/advanced/data-fetching"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/essentials/nested-routes"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/essentials/history-mode"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/essentials/route-matching-syntax"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/advanced/composition-api"
+  },
+  {
+    "url": "https://router.vuejs.org/guide/essentials/named-views"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/instance"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/routing"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/filters"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/components-edge-cases"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/plugins"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/deployment"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/components-props"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/components-dynamic-async"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/typescript"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/components-custom-events"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/migration-vuex"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/syntax"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/team"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/class-and-style"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/components"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/join"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/migration-vue-2-7"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/components-registration"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/reactivity"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/state-management"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/render-function"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/ssr"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/conditional"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/computed"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/transitions"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/transitioning-state"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/testing"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/single-file-components"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/mixins"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/forms"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/custom-directive"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/events"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/security"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/list"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/migration"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/installation"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/migration-vue-router"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/comparison"
+  },
+  {
+    "url": "https://v2.vuejs.org/v2/guide/components-slots"
+  },
+  {
+    "url": "https://router.vuejs.org/api/"
+  },
+  {
+    "url": "https://router.vuejs.org/api/enums/navigationfailuretype"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationasrelativegeneric"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routerecordmultipleviewswithchildren"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routerscrollbehavior"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routerecordmultipleviews"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routerlinkprops"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationnamedraw"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routermatcher"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationnormalizedloadedgeneric"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/uselinkoptions"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/matcherlocation"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routerecordredirect"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationoptions"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routerviewprops"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationaspathtyped"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/historystate"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routequeryandhash"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationasrelativetyped"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/navigationredirecterror"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationtyped"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/router"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routerecordbase"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routeroptions"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationbase"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationnormalizedloadedtyped"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationresolvedtyped"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routerhistory"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationmatched"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationnormalizedgeneric"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationgeneric"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/locationasrelativeraw"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/navigationguard"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationpathraw"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routerecordinfo"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/typesconfig"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationnormalizedtyped"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationresolvedgeneric"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/navigationhookafter"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routerlinki"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/navigationguardnext"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/pathparseroptions"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routerecordsingleview"
+  },
+  {
+    "url": "https://router.vuejs.org/api/enums/errortypes"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routemeta"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routerecordnormalized"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routelocationaspathgeneric"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/matcherlocationaspath"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/navigationfailure"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/routerecordsingleviewwithchildren"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/navigationguardwiththis"
+  },
+  {
+    "url": "https://router.vuejs.org/api/interfaces/uselinkreturn"
+  },
+  {
+    "url": "https://vuejs.org/guide/"
+  },
+  {
+    "url": "https://vuejs.org/guide/scaling-up/tooling"
+  },
+  {
+    "url": "https://vuejs.org/guide/essentials/component-basics"
+  },
+  {
+    "url": "https://vuejs.org/guide/scaling-up/sfc"
+  },
+  {
+    "url": "https://vuejs.org/guide/typescript/overview"
+  },
+  {
+    "url": "https://vuejs.org/guide/essentials/list"
+  },
+  {
+    "url": "https://vuejs.org/guide/best-practices/performance"
+  },
+  {
+    "url": "https://vuejs.org/guide/built-ins/transition"
+  },
+  {
+    "url": "https://vuejs.org/guide/components/async"
+  },
+  {
+    "url": "https://vuejs.org/guide/scaling-up/state-management"
+  },
+  {
+    "url": "https://vuejs.org/guide/typescript/composition-api"
+  },
+  {
+    "url": "https://vuejs.org/guide/essentials/event-handling"
+  },
+  {
+    "url": "https://vuejs.org/guide/built-ins/transition-group"
+  },
+  {
+    "url": "https://vuejs.org/guide/reusability/custom-directives"
+  },
+  {
+    "url": "https://vuejs.org/guide/extras/ways-of-using-vue"
+  },
+  {
+    "url": "https://vuejs.org/guide/best-practices/production-deployment"
+  },
+  {
+    "url": "https://vuejs.org/guide/components/v-model"
+  },
+  {
+    "url": "https://vuejs.org/guide/quick-start"
+  },
+  {
+    "url": "https://vuejs.org/guide/best-practices/accessibility"
+  },
+  {
+    "url": "https://vuejs.org/guide/scaling-up/ssr"
+  },
+  {
+    "url": "https://vuejs.org/guide/best-practices/security"
+  },
+  {
+    "url": "https://vuejs.org/guide/essentials/template-syntax"
+  },
+  {
+    "url": "https://vuejs.org/guide/essentials/conditional"
+  },
+  {
+    "url": "https://vuejs.org/guide/built-ins/teleport"
+  },
+  {
+    "url": "https://vuejs.org/guide/essentials/class-and-style"
+  },
+  {
+    "url": "https://vuejs.org/guide/components/slots"
+  },
+  {
+    "url": "https://vuejs.org/guide/essentials/template-refs"
+  },
+  {
+    "url": "https://vuejs.org/guide/extras/animation"
+  },
+  {
+    "url": "https://vuejs.org/guide/extras/composition-api-faq"
+  },
+  {
+    "url": "https://vuejs.org/guide/introduction"
+  },
+  {
+    "url": "https://vuejs.org/guide/extras/reactivity-in-depth"
+  },
+  {
+    "url": "https://vuejs.org/guide/components/registration"
+  },
+  {
+    "url": "https://vuejs.org/guide/components/props"
+  },
+  {
+    "url": "https://vuejs.org/guide/essentials/lifecycle"
+  },
+  {
+    "url": "https://vuejs.org/guide/essentials/watchers"
+  },
+  {
+    "url": "https://vuejs.org/guide/scaling-up/routing"
+  },
+  {
+    "url": "https://vuejs.org/guide/reusability/composables"
+  },
+  {
+    "url": "https://vuejs.org/guide/essentials/application"
+  },
+  {
+    "url": "https://vuejs.org/guide/scaling-up/testing"
+  },
+  {
+    "url": "https://vuejs.org/guide/typescript/options-api"
+  },
+  {
+    "url": "https://vuejs.org/guide/extras/reactivity-transform"
+  },
+  {
+    "url": "https://vuejs.org/guide/extras/web-components"
+  },
+  {
+    "url": "https://vuejs.org/guide/extras/render-function"
+  },
+  {
+    "url": "https://vuejs.org/guide/components/provide-inject"
+  },
+  {
+    "url": "https://vuejs.org/guide/essentials/forms"
+  },
+  {
+    "url": "https://vuejs.org/guide/components/events"
+  },
+  {
+    "url": "https://vuejs.org/guide/reusability/plugins"
+  },
+  {
+    "url": "https://vuejs.org/guide/components/attrs"
+  },
+  {
+    "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals"
+  },
+  {
+    "url": "https://vuejs.org/guide/built-ins/suspense"
+  },
+  {
+    "url": "https://vuejs.org/guide/extras/rendering-mechanism"
+  },
+  {
+    "url": "https://vuejs.org/guide/built-ins/keep-alive"
+  },
+  {
+    "url": "https://vuejs.org/guide/essentials/computed"
+  }
+]

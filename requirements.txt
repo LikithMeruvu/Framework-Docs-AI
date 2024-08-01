@@ -1,0 +1,15 @@
+langchain
+requests
+beautifulsoup4
+trafilatura
+tqdm
+sentence-transformers
+# groq
+python-dotenv
+chardet
+# ollama
+chromadb
+streamlit
+streamlit-option-menu
+# langchain-google-genai
+langchain-cohere
