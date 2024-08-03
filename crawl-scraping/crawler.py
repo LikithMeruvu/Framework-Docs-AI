@@ -191,53 +191,6 @@ if __name__ == "__main__":
             "docs_path": "Accessibility/",
             "avoid_keywords": ["blog", "about", "community"]
         }
-        # {
-        #     "start_url": "https://pytorch.org/vision/",
-        #     "docs_path": "stable/",
-        #     "avoid_keywords": ["blog", "about", "community"]
-        # },
-        # {
-        #     "start_url": "https://pytorch.org/torcharrow/",
-        #     "docs_path": "beta/",
-        #     "avoid_keywords": ["blog", "about", "community"]
-        # },
-        # {
-        #     "start_url": "https://pytorch.org/data/",
-        #     "docs_path": "beta/",
-        #     "avoid_keywords": ["blog", "about", "community"]
-        # },
-        # {
-        #     "start_url": "https://pytorch.org/torchrec/",
-        #     "docs_path": "",
-        #     "avoid_keywords": ["blog", "about", "community"]
-        # },
-        # {
-        #     "start_url": "https://pytorch.org/serve/",
-        #     "docs_path": "",
-        #     "avoid_keywords": ["blog", "about", "community"]
-        # },
-        # {
-        #     "start_url": "https://pytorch.org/rl/",
-        #     "docs_path": "stable/",
-        #     "avoid_keywords": ["blog", "about", "community"]
-        # },
-        # {
-        #     "start_url": "https://pytorch.org/tensordict/",
-        #     "docs_path": "stable/",
-        #     "avoid_keywords": ["blog", "about", "community"]
-        # },
-        # {
-        #     "start_url": "https://pytorch.org/text/",
-        #     "docs_path": "stable/",
-        #     "avoid_keywords": ["blog", "about", "community"]
-        # },
-
-        # {
-        #     "start_url": "https://pytorch.org/",
-        #     "docs_path": "resources/",
-        #     "avoid_keywords": ["blog", "about", "community"]
-        # },
-        # # Add more configurations as needed
     ]
 
     

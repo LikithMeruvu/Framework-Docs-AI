@@ -1,7 +1,8 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 from phi.assistant import Assistant
-from phi.llm.cohere import CohereChat
+# from phi.llm.cohere import CohereChat
+from phi.llm.openai import OpenAIChat
 from knowledge_base_manager import KnowledgeBaseManager
 import os
 
@@ -41,7 +42,7 @@ def create_assistant(framework_name, api_key, kb_manager):
         return "\n".join([f"{result['content']}" for result in results])
 
     return Assistant(
-        llm=CohereChat(model="command-r-plus", api_key=api_key),
+        llm=OpenAIChat(model="gpt-4o-mini", temperature=0.1,api_key=api_key),
         system_prompt=f"You are a {framework_name} docs AI. You have access to a knowledge base and query it based on user input to gather relevant information and respond promptly. Respond in detail and use tools for complex queries. Do not mention the existence of the knowledge base.",
         description=f"You are a {framework_name} docs AI with access to a comprehensive knowledge base.",
         task=f"Assist users with {framework_name}-related queries, providing detailed and accurate responses.",
@@ -71,7 +72,8 @@ kb_manager_MDN = initialize_kb("MDN web developer Docs", "./Vector_DB/MDN", "dat
 kb_manager_Chainlit = initialize_kb("Chainlit", "./Vector_DB/Chainlit", "data/Scraped_data/Chainlit_scraped.pkl")
 
 # Create assistants
-api_key = os.environ['COHERE_API_KEY']
+api_key = os.environ['OPENAI_API_kEY']
+
 
 assistant_nextjs = create_assistant("Next.js", api_key, kb_manager_nextjs) if kb_manager_nextjs else None
 assistant_langchain = create_assistant("Langchain Python", api_key, kb_manager_langchain) if kb_manager_langchain else None

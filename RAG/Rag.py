@@ -598,3 +598,74 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
+
+
+
+
+
+# Framework Docs AI
+
+[... previous content remains the same ...]
+
+## 🔧 Adding Custom Frameworks
+
+You can add your own custom frameworks to the Framework Docs AI. Follow these steps:
+
+1. **Crawl the URLs (crawler.py)**:
+   - The `crawler.py` file uses a `DomainCrawler` class to crawl websites and collect URLs.
+   - Key components to modify:
+     ```python
+     CONFIGS = [
+         {
+             "start_url": "https://your-framework-docs-url.com",
+             "docs_path": "/",
+             "avoid_keywords": ["blog", "about", "community"]
+         },
+         # You can add multiple configurations for different sections of your documentation
+     ]
+     
+     OUTPUT_PATH = "data/Crawled_url/"
+     FILE_NAME = "YOUR_FRAMEWORK_crawled.json"
+     ```
+   - Customize the `CONFIGS` list:
+     - `start_url`: The base URL of your framework's documentation.
+     - `docs_path`: The specific path where the documentation starts.
+     - `avoid_keywords`: List of keywords to avoid in URLs (e.g., blog posts, community pages).
+   - Update `OUTPUT_PATH` and `FILE_NAME` as needed.
+   - The crawler attempts to use a sitemap.xml if available, then falls back to crawling from the specified `docs_path`.
+   - It uses multi-threading to crawl multiple configurations simultaneously.
+   - Run `crawler.py` to save the crawled URLs in the specified output file.
+
+2. **Scrape the Content (scrape.py)**:
+   [... content about scrape.py remains the same ...]
+
+3. **Convert to Langchain Document Format (save.py)**:
+   [... content about save.py remains the same ...]
+
+4. **Update `app.py`**:
+   [... content about updating app.py remains the same ...]
+
+5. **Restart the Application**:
+   [... content about restarting the application remains the same ...]
+
+## 🚀 Tips for Customization
+
+- Adjust the `CONFIGS` list in `crawler.py` to target specific sections of your framework's documentation.
+- Use the `avoid_keywords` list to prevent the crawler from visiting irrelevant pages.
+- The crawler respects robots.txt and includes a delay between requests to avoid overloading the server.
+- If your framework's documentation is particularly large, you may need to adjust the `max_workers` parameter in the `ThreadPoolExecutor` to control the crawling speed.
+- Always test with a small subset of pages before running the full crawl to ensure everything works as expected.
+
+
+
+
+
+
+
+
