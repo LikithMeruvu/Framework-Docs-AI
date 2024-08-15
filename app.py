@@ -59,8 +59,9 @@ def create_assistant(framework_name, api_key, kb_manager):
         expected_output=f"Accurate, complete, and precise responses to user queries, demonstrating expertise in {framework_name}.",
         tools=[query_knowledge_base],
         use_tools=True,
-        add_references_to_prompt=True,
-        tool_call_limit=5,
+        read_chat_history=True,
+        show_tool_calls = True,
+        tool_call_limit=10,
     )
 
 # Initialize knowledge bases
