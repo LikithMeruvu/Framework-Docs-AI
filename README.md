@@ -72,7 +72,6 @@ Framework Docs AI is a powerful SaaS solution that revolutionizes documentation 
 
 You can add your own custom frameworks to the Framework Docs AI. Follow these steps:
 
-You can add your own custom frameworks to the Framework Docs AI. Follow these steps:
 
 1. **Crawl the URLs (crawler.py)**:
    - The `crawler.py` file uses a `DomainCrawler` class to crawl websites and collect URLs.
