@@ -72,12 +72,6 @@ Framework Docs AI is a powerful SaaS solution that revolutionizes documentation 
 
 You can add your own custom frameworks to the Framework Docs AI. Follow these steps:
 
-# Framework Docs AI
-
-[... previous content remains the same ...]
-
-## 🔧 Adding Custom Frameworks
-
 You can add your own custom frameworks to the Framework Docs AI. Follow these steps:
 
 1. **Crawl the URLs (crawler.py)**:
