@@ -101,19 +101,19 @@ elif selected == "Next.js" and assistant_nextjs:
     # display_next(assistant_nextjs)
     display_framework(assistant_nextjs,"Next.js")
 
-elif selected == "Vue.js" and assistant_nextjs:
+elif selected == "Vue.js" and assistant_Vuejs:
     # display_next(assistant_nextjs)
     display_framework(assistant_Vuejs,"Vue.js")
 
-elif selected == "MDN_WEB" and assistant_nextjs:
+elif selected == "MDN_WEB" and assistant_MDN:
     # display_next(assistant_nextjs)
     display_framework(assistant_MDN,"MDN_WEB")
 
-elif selected == "Pytorch" and assistant_nextjs:
+elif selected == "Pytorch" and assistant_Pytorch:
     # display_next(assistant_nextjs)
     display_framework(assistant_Pytorch,"Pytorch")
 
-elif selected == "Chainlit" and assistant_nextjs:
+elif selected == "Chainlit" and assistant_Chainlit:
     # display_next(assistant_nextjs)
     display_framework(assistant_Chainlit,"Chainlit")
 
